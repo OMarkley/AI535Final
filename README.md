@@ -1,3 +1,5 @@
+By Yonatan Woldegiorgis and Owen Markley
+
 Testing evaluation needed to be done by submitting data to Sintel through their website.
 Receiving an account to do this could take up to 12 hours (we're guessing more since it's the weekend).
 As a results, we're separating data from the training set to use for our testing in this project.
